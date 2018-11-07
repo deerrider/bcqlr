@@ -3,6 +3,7 @@ layout: post
 title: 城堡里的猫和魔法毛线球
 category: 骑鹿杂言
 finished: ture
+excerpt: 庶民，近前。本王，洛阿扎尼塔圣王，是这个城堡的主人，王之姓名乃是藤原喵之助。
 ---
 
 庶民，近前。
