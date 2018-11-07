@@ -5,11 +5,11 @@ description:        "骑鹿人文学作品总集。"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/deerrider.png'
-background:         'assets/img/bg.png'
+background:         'assets/img/typer.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
-url:                http://bcqlr.com
-#url:                http://127.0.0.1:4000
+#url:                http://bcqlr.com
+url:                http://127.0.0.1:4000
 
 # Jekyll
 permalink:          /:title/
